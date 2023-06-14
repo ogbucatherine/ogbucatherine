@@ -1,0 +1,9 @@
+
+Git is a distributed version control tool that allows you to track various changes made on a project. It is easy, fast, flexible, safe, and free open-source¹. 
+
+To use Git in Bash, you can install Git Bash³. Once installed, you can initialise Git through the terminal by running the command `git init`. This downloads hidden files in the project folder. You can then choose files to share by running the command `git add yourfilename` or `git add .` which adds all the files. You can save the selected files with a message and then you are ready to share them by running the command `git commit -m ''Added my files''`³.
+
+References:
+(1) What is git? basic git commands - Hashnode. https://hashnode.com/post/git-just-basics-cl0ohfsqe03ot2onv6k30hrt0.
+(2) Git 101 - Hashnode. https://hashnode.com/post/git-101-cku70qptk06c7jls1456880mi.
+(3) Basics of Git & Github - Hashnode. https://hashnode.com/post/basics-of-git-and-github-ckpcq4pb8034aa0s194d7fjaf.
